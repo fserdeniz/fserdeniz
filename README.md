@@ -37,10 +37,10 @@ My goal is to share my academic work and open-source projects to keep learning a
 ---
 
 ## 📫 Contact
-
-- ✉️ Email: [fatiherdeniz@outlook.com]  
-- 🔗 LinkedIn: [https://www.linkedin.com/in/fatih-selim-erdeniz/]  
-- 🐧 Kaggle: [https://www.kaggle.com/fatihserdeniz]    
+ 
+- 🔗 X: [https://x.com/chefontech]  
+- 🐧 Kaggle: [https://www.kaggle.com/fatihserdeniz]
+- 🤗 Hugging Face: [https://huggingface.co/chefonml]   
 
 ---
 
