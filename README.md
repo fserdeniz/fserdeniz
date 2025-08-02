@@ -38,9 +38,7 @@ My goal is to share my academic work and open-source projects to keep learning a
 
 ## 📫 Contact
  
-- 🔗 X: [https://x.com/chefontech]  
-- 🐧 Kaggle: [https://www.kaggle.com/fatihserdeniz]
-- 🤗 Hugging Face: [https://huggingface.co/chefonml]   
+[![X](https://img.shields.io/badge/X-@chefontech-000?logo=twitter&logoColor=white&style=flat-square)](https://x.com/chefontech)  [![Kaggle](https://img.shields.io/badge/Kaggle-fatihserdeniz-blue?logo=kaggle&logoColor=white&style=flat-square)](https://kaggle.com/fatihserdeniz)  [![Hugging Face](https://img.shields.io/badge/Hugging%20Face-chefonml-orange?logo=huggingface&logoColor=white&style=flat-square)](https://huggingface.co/chefonml)   
 
 ---
 
