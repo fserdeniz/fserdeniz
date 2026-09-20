@@ -135,10 +135,6 @@ Alongside my research projects, I’m systematically strengthening my foundation
     src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=fserdeniz&theme=github_dark"
     alt="Fatih's GitHub stats"
   />
-  <img
-    src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=fserdeniz&theme=github_dark&utcOffset=3"
-    alt="Fatih's productive time"
-  />
 </p>
 
 <p align="center">
