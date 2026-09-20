@@ -1,8 +1,8 @@
 # 👋 Hi, I’m Fatih
 
-I’m an **Electronics and Communication Engineering graduate from Kocaeli University**, focused on developing strong foundations in **Artificial Intelligence, Machine Learning, Computer Vision, Time-Series Forecasting, and AI Engineering**.
+I’m an **Electronics and Communication Engineering graduate from Kocaeli University**, currently focused on building strong foundations in **Artificial Intelligence, Machine Learning, Computer Vision, Time-Series Forecasting, and AI Engineering**.
 
-I enjoy building projects that combine software, data, machine learning, and embedded systems — especially on Raspberry Pi.
+I enjoy developing projects that combine software, data, machine learning, and embedded systems — especially on Raspberry Pi.
 
 Currently, I’m deepening my knowledge of Python, mathematics for AI, Linux, Git, software engineering, modern AI systems, and research-oriented machine learning workflows.
 
@@ -14,7 +14,7 @@ Currently, I’m deepening my knowledge of Python, mathematics for AI, Linux, Gi
 - 🤖 Working toward a career in **AI Engineering**
 - 🧠 Interested in **Machine Learning, Deep Learning, Foundation Models, LLMs, and AI Agents**
 - 📈 Exploring **Time-Series Forecasting and Financial Machine Learning**
-- 👨‍💻 Learning more about **coding agents and AI-assisted software engineering**
+- 👨‍💻 Learning more about **Coding Agents and AI-assisted Software Engineering**
 - 🍓 Using **Raspberry Pi 5** as a development and experimentation platform
 - 🔬 Interested in reproducible, testable, and research-oriented AI workflows
 - 🌱 Continuously improving my foundations in programming, mathematics, and software engineering
@@ -25,7 +25,7 @@ Currently, I’m deepening my knowledge of Python, mathematics for AI, Linux, Gi
 
 ### 📈 BIST Time-Series Forecasting Research
 
-I’m currently developing a private research project focused on **auditable time-series forecasting for Borsa Istanbul**.
+I’m currently developing a **private research project** focused on auditable time-series forecasting for Borsa Istanbul.
 
 The project explores:
 
@@ -34,11 +34,11 @@ The project explores:
 - chronological and leakage-safe evaluation
 - statistical and machine-learning baselines
 - foundation models for time-series forecasting
-- reproducible experiments
-- forecasting, signal, risk, and backtesting separation
+- reproducible experiments and data provenance
+- separation of forecasting, signals, risk, and backtesting
 - realistic trading-system research methodology
 
-The project is intentionally **research-first**: reliable data and methodology come before model complexity or live trading.
+> The project is intentionally **research-first**: reliable data and methodology come before model complexity or live trading.
 
 ### 🤖 AI Engineering Foundations
 
@@ -121,12 +121,35 @@ Alongside my research projects, I’m systematically strengthening my foundation
 
 ---
 
-## 📈 GitHub Stats
+## 📊 GitHub Activity
 
 <p align="center">
-  <a href="https://github.com/fserdeniz">
-    <img src="https://github-readme-stats.vercel.app/api?username=fserdeniz&show_icons=true&theme=tokyonight" alt="Fatih's GitHub stats" />
-  </a>
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=fserdeniz&theme=github_dark"
+    alt="Fatih's GitHub profile details"
+  />
+</p>
+
+<p align="center">
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=fserdeniz&theme=github_dark"
+    alt="Fatih's GitHub stats"
+  />
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=fserdeniz&theme=github_dark&utcOffset=3"
+    alt="Fatih's productive time"
+  />
+</p>
+
+<p align="center">
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=fserdeniz&theme=github_dark"
+    alt="Repositories per language"
+  />
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=fserdeniz&theme=github_dark"
+    alt="Most committed languages"
+  />
 </p>
 
 ---
